@@ -4,7 +4,9 @@ The provided Python code defines a class called `KeyTitan` that serves as a pass
 
 # Installation
 
-```pip install keytitan```
+```
+pip install keytitan
+```
 
 ## KeyTitan Class
 
