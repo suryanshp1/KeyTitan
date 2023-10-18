@@ -2,6 +2,10 @@
 
 The provided Python code defines a class called `KeyTitan` that serves as a password generator and validator. It generates random passwords that meet certain criteria and validates passwords against specific rules.
 
+# Installation
+
+```pip install keytitan```
+
 ## KeyTitan Class
 
 The `KeyTitan` class has the following methods:
