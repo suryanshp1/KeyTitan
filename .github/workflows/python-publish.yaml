@@ -40,7 +40,7 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with unittest
       run: |
-        unittest -v    
+        python3 -m unittest -v tests/test_keytitan.py
     - name: Build package
       run: python -m build
     - name: Publish package
