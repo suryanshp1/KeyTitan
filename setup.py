@@ -18,7 +18,7 @@ def get_requirements(filepath: str) -> List[str]:
 
     return requirements
 
-__version__ = "0.0.1"
+__version__ = "0.0.2"
 REPO_NAME = "KeyTitan"
 PKG_NAME= "keytitan"
 AUTHOR_USER_NAME = "suryanshp1"
